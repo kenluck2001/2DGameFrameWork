@@ -1,6 +1,6 @@
-This is a vertical shooter 2D framework. The framework is based on SDL library. The framework is in the "DemoEngine" folder. There is an example of how to use the framework. The Game example is in folder named "Game".
+This is a vertical shooter 2D Game framework with an example of a game project using the framework. The game framework is based on SDL library. The framework is saved in a folder named "DemoEngine". There is an example of how to use the framework. This Game example is saved in the folder named "Game".
 
-The code is an alpha version. There are a number of useful tips that can be understand about the game and framework by reading the developer's blog. It is available at ( https://kyvyt.fi/view/view.php?t=YRRMWTKfQf4o06pM6DQg ).
+This is an alpha version. There are a number of useful tips about the game project and framework that can be understood by reading the developer's blog. It is available at ( https://kyvyt.fi/view/view.php?t=YRRMWTKfQf4o06pM6DQg ).
 
 The project is will be licensed using the MIT license.
 
@@ -30,7 +30,7 @@ libsdl-mixer1.2-dev
 SDL_ttf 2.0
 SDL_gfx
 
-You can get two output. The Release codes and the Debug code. The difference is in content (optimizations and debugging symbols).
+You can get two output. The Release or the Debug. The difference lies in context (optimizations and debugging symbols).
 
 DEBUG
 
@@ -54,7 +54,7 @@ Move accross the game stae using the arrow key. The up key moves the highlighted
 
 
 THE BRIEF DESCRIPTION OF THE GAME:
-The game requires that you shot at endless amount of planes. Every shot causes the score to be incremented. The player gets a good feeling when the score is increased.
+The game requires that you shot at infinite amount of planes. Every shot causes the score to be incremented. The player gets a good feeling when the score is increased.
 
 Thanks for Mr. Anssi for supervising the project.
 
