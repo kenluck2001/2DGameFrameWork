@@ -1,4 +1,4 @@
-This is a vertical shooter 2D framework. The framework is based on SDL library. The framework is in the DemoEngine. There is an example of how to use the framework. The Game example is in folder named "Game".
+This is a vertical shooter 2D framework. The framework is based on SDL library. The framework is in the "DemoEngine" folder. There is an example of how to use the framework. The Game example is in folder named "Game".
 
 The code is an alpha version. There are a number of useful tips that can be understand about the game and framework by reading the developer's blog. It is available at ( https://kyvyt.fi/view/view.php?t=YRRMWTKfQf4o06pM6DQg ).
 
@@ -7,7 +7,7 @@ The project is will be licensed using the MIT license.
 HOW TO COMPILE THIS PROGRAM:
 This program is licensed as an open software.The source code comes with an executable file.The user can run this executable file as a script.
 
-Note: This makes use of the  GNU  compiler.This is code is stable and was comfortably tested on a linux machine.
+Note: This makes use of the  GNU  compiler.The code is stable and was comfortably tested on a linux machine.
 However,since to specific OS hooks were used in this code.It show also work well for windows machines with a few changes.
 
 
