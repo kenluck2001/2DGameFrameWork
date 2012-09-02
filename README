@@ -1,0 +1,49 @@
+This is a vertical shooter 2D framework. The framework is based on SDL library. The framework is in the DemoEngine. There is an example of how to use the framework. The Game example is in folder named "Game".
+
+The code is an alpha version. There are a number of useful tips that can be understand about the game and framework by reading the developer's blog. It is available at ( https://kyvyt.fi/view/view.php?t=YRRMWTKfQf4o06pM6DQg ).
+
+The project is will be licensed using the MIT license.
+
+HOW TO COMPILE THIS PROGRAM:
+This program is licensed as an open software.The source code comes with an executable file.The user can run this executable file as a script.
+
+Note: This makes use of the  GNU  compiler.This is code is stable and was comfortably tested on a linux machine.
+However,since to specific OS hooks were used in this code.It show also work well for windows machines with a few changes.
+
+
+HOW TO RUN THE EXECUTABLE:
+
+Navigate to the Application folder in the src folder. This folder contains all the needed artefact.
+/Application> chmod u+x a.out
+/Application> ./a.out
+
+
+Compiling from source
+Install the following third party software.
+libsdl-1.2debian
+libsdl-1.2debian-alsa
+libsdl-1.2dev
+libsdl-image1.2
+libsdl-image1.2-dev
+libsdl-mixer1.2
+libsdl-mixer1.2-dev
+SDL_ttf 2.0
+SDL_gfx
+
+
+HOW TO PLAY:
+
+When the program is compiled and run as described above, a welcome message is displayed showing some informationa. The program doesn't need any personal information to prevent misuse of data.
+
+Move accross the game stae using the arrow key. The up key moves the highlighted icon updates while the down key does the reverse.
+
+
+
+THE BRIEF DESCRIPTION OF THE GAME:
+The game requires that you shot at endless amount of planes. Every shot causes the score to be incremented. The player gets a good feeling when the score is increased.
+
+Thanks for Mr. Anssi for supervising the project.
+
+Thanks.
+
+            ************ENJOY**************
