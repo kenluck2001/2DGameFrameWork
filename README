@@ -18,7 +18,7 @@ Navigate to the Application folder in the src folder. This folder contains all t
 /Application> ./a.out
 
 
-Compiling from source
+COMPILING FROM SOURCE
 Install the following third party software.
 libsdl-1.2debian
 libsdl-1.2debian-alsa
@@ -29,6 +29,20 @@ libsdl-mixer1.2
 libsdl-mixer1.2-dev
 SDL_ttf 2.0
 SDL_gfx
+
+You can get two output. The Release codes and the Debug code. The difference is in content (optimizations and debugging symbols).
+
+DEBUG
+
+$ make
+$ make exec
+
+
+RELEASE
+
+$ make release
+$ make appexec
+
 
 
 HOW TO PLAY:
