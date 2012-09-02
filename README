@@ -47,7 +47,7 @@ $ make appexec
 
 HOW TO PLAY:
 
-When the program is compiled and run as described above, a welcome message is displayed showing some informationa. The program doesn't need any personal information to prevent misuse of data.
+When the program is compiled and run as described above, a welcome message is displayed showing some information. The program doesn't need any personal information to prevent misuse of data.
 
 Move accross the game stae using the arrow key. The up key moves the highlighted icon updates while the down key does the reverse.
 
